@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reajur Rahaman
-- 👀 I’m interested in MobilApp And WebApp Development
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in WebApp Development
+- 🌱 I’m currently working in Laravel
 - 📫 How to reach me - at rahamanrumman@gmail.com
 
 <!---
